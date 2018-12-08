@@ -1,0 +1,12 @@
+h1 {color: green; font-style: italic;}
+h4 {color: blue; font-style: bold;}
+p {
+    margin: 30px;
+}
+.ocean {color: blue; font-style: bold;}
+.beach {color: yellow; background-color: blue;}
+.yellowback {background-color: yellow;}
+body {
+    background-image: url("sailboat.jpg");
+    background-repeat: no-repeat
+}

@@ -15,20 +15,20 @@ Open the homework-css_001 using `Brackets` app. It should be found in your Linux
 Open the file index.html. Open the file styles.css. Apply the following to styles.css:
 
 1  Make the poem title green and italic. Hint: The title is indicted in the document as `<h1>`.
-
+done
 2\. Make the verse headers blue and bold. They are indicated in the document as `<h4>`.
-
+done
 3\. Put in enough of a margin to move the text to the far right side of the page. Hint: The texts are indicated in the document as `<P>`.
-
+kind of done
 4\. Use a class to make the word ocean blue and bold everywhere it appears. Hint: The word ocean is wrapped with the `class "ocean"`. So, you can use `.ocean ` selector.
-
+done
 5\. Use a class to make the word beach yellow with a blue background everywhere it appears.
-
+done
 6\. Make the background of the third paragraph yellow.
-
+done
 7\. Finally, use the image provided (sailboat.jpg) as a background image. It should not repeat and  
     should appear on the left side of the screen.
-
+done
 8\. Save your finished part 1 file as part1.html.
 
 
