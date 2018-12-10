@@ -30,7 +30,7 @@ done
     should appear on the left side of the screen.
 done
 8\. Save your finished part 1 file as part1.html.
-
+done
 
 **What to turn in to the instructor:**
 
